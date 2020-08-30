@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://www.gitsu.cn/static/img/shui.png"
-        alt="Logo" width="158" height="82" style="max-width: 100%;">
+        alt="Logo" width="160" height="164" style="max-width: 100%;">
 </p>
-<h1 align="center">SuZhe</h1>
+
 <p align="center">
   <a href="https://www.gitsu.cn">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
