@@ -1,1 +1,1 @@
-★★[blob](https://www.gitsu.cn "哈擦苏")  
+[★blob★](https://www.gitsu.cn "哈擦苏")  
