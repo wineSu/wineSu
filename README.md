@@ -15,7 +15,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/1042970366/">
-        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
+        <img src="https://img.shields.io/badge/react-源码-green" alt="react" />
     </a>
     <a href="https://vuejs.org/">
         <img src="https://img.shields.io/badge/vue.js-2.0-green" alt="Vue2.0">
