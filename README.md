@@ -1,5 +1,5 @@
 <a href="https://www.gitsu.cn">
-  <img align="center" alt="wineSu" width="24px" src="https://www.gitsu.cn/static/img/favicon.ico" />
+  <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
   my blob
 </a>
 <br />
