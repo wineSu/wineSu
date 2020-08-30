@@ -2,7 +2,8 @@
   <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
   my blob
 </a>
-<a href="https://www.gitsu.cn">
-  <img alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
-  my blob
+<br />
+<a href="https://blog.csdn.net/susuzhe123">
+  <img alt="wineSu" width="22px" src="https://csdnimg.cn/public/favicon.ico" />
+  my notes
 </a>
