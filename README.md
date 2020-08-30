@@ -4,6 +4,6 @@
 </a>
 <br />
 <a href="https://blog.csdn.net/susuzhe123">
-    <img align="center" alt="wineSu" width="14px" src="https://csdnimg.cn/public/favicon.ico" />
+  <img align="right" alt="wineSu" width="14px" src="https://csdnimg.cn/public/favicon.ico" />
   my notes
 </a>
