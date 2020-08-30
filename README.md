@@ -18,12 +18,12 @@
         <img src="https://img.shields.io/badge/react-源码-green" alt="react" />
     </a>
     <a href="https://vuejs.org/">
-        <img src="https://img.shields.io/badge/vue.js-2.0-green" alt="Vue2.0">
+        <img src="https://img.shields.io/badge/vue-源码-green" alt="Vue">
     </a>
     <a href="https://github.com/1042970366/">
-        <img src="https://img.shields.io/badge/author-Tmier-blueviolet" alt="Author">
+        <img src="https://img.shields.io/badge/webpack-源码-green" alt="webpack">
     </a>
     <a href="https://github.com/1042970366/">
-        <img src="https://img.shields.io/badge/?-open--in--browser-blueviolet" alt="Live Demo">
+        <img src="https://img.shields.io/badge/more-studying-green" alt="webpack">
     </a>
 </p>
