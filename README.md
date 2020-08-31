@@ -2,7 +2,6 @@
   <img src="https://www.gitsu.cn/static/img/shui.png"
         alt="Logo" width="160" height="164" style="max-width: 100%;">
 </p>
-
 <p align="center">
   <a href="https://www.gitsu.cn">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
