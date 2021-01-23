@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.gitsu.cn">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
-    my blob
+    <h4 align="center">my blob</h4>
   </a>
   <br />
   <a href="https://blog.csdn.net/susuzhe123">
