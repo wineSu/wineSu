@@ -5,11 +5,11 @@
 <p align="center">
   <a href="https://www.gitsu.cn">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
-    <h4 align="center">my blob</h4>
+    我的网站
   </a>
   <br />
   <a href="https://blog.csdn.net/susuzhe123">
-    🌱 my notes
+    🌱 杂七杂八
   </a>
 </p>
 <p align="center">
