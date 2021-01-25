@@ -5,16 +5,9 @@
 <p align="center">
   <a href="https://www.gitsu.cn">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
-    我的网站
+    个人网站
   </a>
-  <a href="https://www.gitsu.cn/article41">
-        <img src="https://img.shields.io/badge/react-我的网站-brightgreen" alt="react" />
-    </a>
-  <br />
-  <a href="https://www.zhihu.com/people/he-zi-lai-lai-96-47-31">
-    <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
-    知乎
-  </a>
+ 
    <br />
   <a href="https://blog.csdn.net/susuzhe123">
     🌱 杂七杂八
