@@ -2,17 +2,17 @@
   <img src="https://www.gitsu.cn/static/img/shui.png"
         alt="Logo" width="160" height="164" style="max-width: 100%;">
 </p>
-<p align="center">
+<p align="left">
   <a href="https://www.gitsu.cn">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
     我的网站
   </a>
-  
+  <br />
   <a href="https://www.zhihu.com/people/he-zi-lai-lai-96-47-31">
     <img align="center" alt="wineSu" width="22px" src="https://www.gitsu.cn/static/img/favicon.ico" />
     知乎
   </a>
-  
+   <br />
   <a href="https://blog.csdn.net/susuzhe123">
     🌱 杂七杂八
   </a>
